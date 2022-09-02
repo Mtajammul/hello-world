@@ -33,5 +33,5 @@
 
    <h1> Thankyou, Happy Learning </h1>
    <h1>Build Amazing Career With Devops <h1>
-   <b> I appreciate - Edited by Tajammul</b>
+   <b> I appreciate - Edited by Tajammul and shahbaz</b>
 </form>
